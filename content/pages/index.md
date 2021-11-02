@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Julio. And I''m a web artisan.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I will make your project succeed by creating handful tools that boost your
+      business success.
     actions:
       - label: Contact Me
         url: /contact
